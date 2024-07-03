@@ -49,10 +49,6 @@ Nosso objetivo é oferecer uma experiência de compra online perfeita e intuitiv
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e correções.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 
 Para mais informações, entre em contato:
