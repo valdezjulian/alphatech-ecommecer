@@ -158,6 +158,7 @@ main {
 }
 
 h3 {
+    width: 100vw;
     text-align: center;
     padding: 1.5rem;
     font-size: 1.8rem;
