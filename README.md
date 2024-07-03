@@ -1,12 +1,16 @@
 # AlphaTech E-commerce
 
 [AlphaTech E-commerce](https://alphatech-ecommecer.vercel.app/)<br>
-<img src="./assets/mockup-alpha-tech" alt="imagem mockup">
+
+<img src="./assets/mockup-alpha-tech.png" alt="imagem mockup">
 
 ## Descrição
 
 AlphaTech é uma plataforma de e-commerce moderna e inovadora, desenvolvida com HTML, CSS e JavaScript. 
 Nosso objetivo é oferecer uma experiência de compra online perfeita e intuitiva, destacando os melhores produtos tecnológicos disponíveis no mercado. 
+
+
+<video autoplay loop src="assets/video-alpha-tech.mp4" type="video/mp4">
 
 ## Funcionalidades
 
@@ -56,4 +60,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Para mais informações, entre em contato:
 - **Email**: valdezjulian.tab@gmail.com
-- **LinkedIn**: [Seu Perfil]([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/valdezjulian/))
+- **LinkedIn**:([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/valdezjulian/))
